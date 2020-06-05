@@ -1,2 +1,1 @@
-# pp
-Project 1
+# Ubuntu Applications and important Commands

@@ -6,7 +6,9 @@
 >-  ### Some important Shell commands 
 >       - [Installing Application after downloading zip, which contain 'install.sh' file](#installing-application-after-downloading-zip,-which-contain-'install.sh'-file)
 >       - [Unstalling Applications in its file which contain 'uninstall.sh' file](#unstalling-applications-in-its-file-which-contain-'uninstall.sh'-file)
->       - [Installing Node from Downloaded zip file](#installing-node-from-downloaded-zip-file)
+>       - [Node installation from zip file](#installing-node-from-downloaded-zip-file)
+>       - [Installing JAVA](#installing-java)
+>       - [Desktop Shortcut](#desktop-shortcut)
 
  
 
@@ -67,4 +69,15 @@ sh uninstall.sh
  ### Installing Node from Downloaded zip file
 ```
 sudo tar -xf node-v12.17.0-linux-x64.tar.xz --directory /usr/local --strip-components 1
+```
+ ### Installing JAVA
+```
+sudo apt update
+sudo apt install default-jre
+sudo apt install default-jdk
+```
+ ### Desktop Shortcut
+ Goto the folder that you need to create shortcut and open in terminal
+```
+ln -s $PWD ~/Desktop/
 ```

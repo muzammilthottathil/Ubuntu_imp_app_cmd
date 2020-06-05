@@ -1,4 +1,11 @@
 # Ubuntu Applications and important Commands
+> ## Quick Action
+> ### Some Important Applications
+> * <a href="SM player">SM Player</a>
+> * <a href="GNOME Tweek tool">GNOME Tweek tool</a>
+> * <a href="SM player">SM Player</a>
+> * <a href="SM player">SM Player</a>
+> * <a href="SM player">SM Player</a>
 
 ## Some Important Applications
 

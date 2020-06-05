@@ -7,7 +7,7 @@
 
 To download and install
 ```
-    sudo add-apt-repository ppa:rvm/smplayer 
+sudo add-apt-repository ppa:rvm/smplayer 
 sudo apt-get update 
 sudo apt-get install smplayer smplayer-themes smplayer-skins
 ```
@@ -17,8 +17,8 @@ sudo apt-get install smplayer smplayer-themes smplayer-skins
 
 To download and install
 ```
-    sudo add-apt-repository universe
-   	sudo apt install gnome-tweak-tool
+sudo add-apt-repository universe
+sudo apt install gnome-tweak-tool
 ```
 
 ## Some important Shell commands  
@@ -28,32 +28,32 @@ To download and install
 Firstly Grant all Permissions,
 
 ```
-    chmod +x install.sh
+chmod +x install.sh
 ```
 then type,
 ```
-    ./install.sh
+./install.sh
 ```
 or
 ```
-    sh install.sh	
+sh install.sh	
 ```	
  ### Unstalling Applications in its file which contain 'uninstall.sh' file 
 
 Firstly Grant all Permissions,
 
 ```
-    chmod +x uninstall.sh
+chmod +x uninstall.sh
 ```
 then type,
 ```
-    ./uninstall.sh
+./uninstall.sh
 ```
 or
 ```
-    sh uninstall.sh	
+sh uninstall.sh	
 ```	
  ### Installing Node from Downloaded zip file
 ```
-    sudo tar -xf node-v12.17.0-linux-x64.tar.xz --directory /usr/local --strip-components 1
+sudo tar -xf node-v12.17.0-linux-x64.tar.xz --directory /usr/local --strip-components 1
 ```

@@ -12,6 +12,7 @@
 >       - [Node installation from zip file](#installing-node-from-downloaded-zip-file)
 >       - [Installing JAVA](#installing-java)
 >       - [Desktop Shortcut](#desktop-shortcut)
+>       - [GNOME shell Extension installing](#gnome-shell-extension-installing)
 
  
 
@@ -83,4 +84,8 @@ sudo apt install default-jdk
  Goto the folder that you need to create shortcut and open in terminal
 ```
 ln -s $PWD ~/Desktop/
+```
+ ### GNOME shell Extension installing
+```
+sudo apt install gnome-shell-extensions
 ```

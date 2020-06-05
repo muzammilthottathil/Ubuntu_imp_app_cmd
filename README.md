@@ -12,7 +12,7 @@ To download and install
 	sudo apt-get install smplayer smplayer-themes smplayer-skins
 ```
 
-> ### 2) GNOME Tweek tool
+ ### 2) GNOME Tweek tool
 ![image of gnome_tweek](./img/sm)
 
 To download and install
@@ -23,7 +23,7 @@ To download and install
 
 ## Some important Shell commands  
 
-> ### Installing Application after downloading zip, which contain 'install.sh' file 
+ ### Installing Application after downloading zip, which contain 'install.sh' file 
 
 Firstly Grant all Permissions,
 
@@ -38,7 +38,7 @@ or
 ```
     sh install.sh	
 ```	
-> ### Unstalling Applications in its file which contain 'uninstall.sh' file 
+ ### Unstalling Applications in its file which contain 'uninstall.sh' file 
 
 Firstly Grant all Permissions,
 
@@ -53,7 +53,7 @@ or
 ```
     sh uninstall.sh	
 ```	
-> ### Installing Node from Downloaded zip file
+ ### Installing Node from Downloaded zip file
 ```
     sudo tar -xf node-v12.17.0-linux-x64.tar.xz --directory /usr/local --strip-components 1
 ```

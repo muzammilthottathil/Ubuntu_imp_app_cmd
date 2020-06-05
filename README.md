@@ -2,6 +2,13 @@
 > ## Quick Action
 >-  ### Some Important Applications
 >       - [SM Player](#sm-player)
+>       - [GNOME Tweek tool](#gnome-tweek-tool)
+>-  ### Some important Shell commands 
+>       - [Installing Application after downloading zip, which contain 'install.sh' file](#installing-application-after-downloading-zip,-which-contain-'install.sh'-file)
+>       - [Unstalling Applications in its file which contain 'uninstall.sh' file](#unstalling-applications-in-its-file-which-contain-'uninstall.sh'-file)
+>       - [Installing Node from Downloaded zip file](#installing-node-from-downloaded-zip-file)
+
+ 
 
 
 ## Some Important Applications
@@ -16,7 +23,7 @@ sudo apt-get update
 sudo apt-get install smplayer smplayer-themes smplayer-skins
 ```
 
- ### 2) GNOME Tweek tool
+ ### GNOME Tweek tool
 ![image of gnome_tweek](./img/gnome_tweak.jpeg)
 
 To download and install

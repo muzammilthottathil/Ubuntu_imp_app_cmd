@@ -1,4 +1,5 @@
 # Ubuntu Applications and important Commands
+<<<<<<< HEAD
 
 ## Some Important Applications
 
@@ -57,3 +58,5 @@ or
 ```
     sudo tar -xf node-v12.17.0-linux-x64.tar.xz --directory /usr/local --strip-components 1
 ```
+=======
+>>>>>>> 1cdd3dec0c1a6cd31a331a70999b54eab8fd5e58

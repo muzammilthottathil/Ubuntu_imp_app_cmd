@@ -7,8 +7,8 @@
 >       - [SM Player](#sm-player)
 >       - [GNOME Tweek tool](#gnome-tweek-tool)
 >-  ### Some important Shell commands 
->       - [Installing Application after downloading zip, which contain 'install.sh' file](#installing-application-after-downloading-zip,-which-contain-installsh-file)
->       - [Unstalling Applications in its file which contain 'uninstall.sh' file](#unstalling-applications-in-its-file-which-contain-uninstallsh-file)
+>       - [Installing Application which contain 'install.sh' file in its downloaded zip](#installing-application-which-contain-installsh-file-in-its-downloaded-zip)
+>       - [Unstalling Applications which contain 'uninstall.sh' in its file  ](#unstalling-applications-which-contain-uninstallsh-in-its-file)
 >       - [Node installation from zip file](#installing-node-from-downloaded-zip-file)
 >       - [Installing JAVA](#installing-java)
 >       - [Desktop Shortcut](#desktop-shortcut)
@@ -40,7 +40,7 @@ sudo apt install gnome-tweak-tool
 
 ## Some important Shell commands  
 
- ### Installing Application after downloading zip, which contain 'install.sh' file 
+ ### Installing Application which contain 'install.sh' file in its downloaded zip
 
 Firstly Grant all Permissions,
 
@@ -55,7 +55,7 @@ or
 ```
 sh install.sh	
 ```
- ### Unstalling Applications in its file which contain 'uninstall.sh' file 
+ ### Unstalling Applications which contain 'uninstall.sh' in its file 
 
 Firstly Grant all Permissions,
 

@@ -20,7 +20,7 @@ sudo apt-get install smplayer smplayer-themes smplayer-skins
 ```
 
  ### 2) GNOME Tweek tool
-![image of gnome_tweek](./img/gnome_tweek.jpeg)
+![image of gnome_tweek](./img/gnome_tweak.jpeg)
 
 To download and install
 ```

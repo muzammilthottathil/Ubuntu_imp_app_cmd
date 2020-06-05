@@ -1,7 +1,7 @@
 # Ubuntu Applications and important Commands
 > ## Quick Action
 > ### Some Important Applications
-> * <a href="SM player">SM Player</a>
+> * [Go to SM Player](-1)-sm-player)
 > * <a href="GNOME Tweek tool">GNOME Tweek tool</a>
 > * <a href="SM player">SM Player</a>
 > * <a href="SM player">SM Player</a>
@@ -9,7 +9,7 @@
 
 ## Some Important Applications
 
-### 1) SM Player
+### 1)SM Player
 ![image of smplayer](./img/smplayer.jpeg)
 
 To download and install
@@ -20,7 +20,7 @@ sudo apt-get install smplayer smplayer-themes smplayer-skins
 ```
 
  ### 2) GNOME Tweek tool
-![image of gnome_tweek](./img/sm)
+![image of gnome_tweek](./img/gnome_tweek.jpeg)
 
 To download and install
 ```

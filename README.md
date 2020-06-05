@@ -1,4 +1,7 @@
 # Ubuntu Applications and important Commands
+> Version 20.04 
+
+
 > ## Quick Action
 >-  ### Some Important Applications
 >       - [SM Player](#sm-player)

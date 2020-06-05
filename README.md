@@ -8,7 +8,7 @@
 >       - [GNOME Tweek tool](#gnome-tweek-tool)
 >-  ### Some important Shell commands 
 >       - [Installing Application after downloading zip, which contain 'install.sh' file](#installing-application-after-downloading-zip,-which-contain-install.sh-file)
->       - [Unstalling Applications in its file which contain 'uninstall.sh' file](#unstalling-applications-in-its-file-which-contain-uninstall.sh-file)
+>       - [Unstalling Applications in its file which contain 'uninstall.sh' file](#unstalling-applications-in-its-file-which-contain-'uninstall.sh'-file)
 >       - [Node installation from zip file](#installing-node-from-downloaded-zip-file)
 >       - [Installing JAVA](#installing-java)
 >       - [Desktop Shortcut](#desktop-shortcut)

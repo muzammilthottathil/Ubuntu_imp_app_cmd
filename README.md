@@ -1,15 +1,12 @@
 # Ubuntu Applications and important Commands
 > ## Quick Action
-> ### Some Important Applications
-> * [Go to SM Player](-1)-sm-player)
-> * <a href="GNOME Tweek tool">GNOME Tweek tool</a>
-> * <a href="SM player">SM Player</a>
-> * <a href="SM player">SM Player</a>
-> * <a href="SM player">SM Player</a>
+>-  ### Some Important Applications
+>       - [SM Player](#sm-player)
+
 
 ## Some Important Applications
 
-### 1)SM Player
+### SM Player
 ![image of smplayer](./img/smplayer.jpeg)
 
 To download and install
